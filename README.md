@@ -1,3 +1,5 @@
-# Simple repository with visibility into projects I am working on
+# Welcome
 
-[douguyeda.github.io](douguyeda.github.io)
+Simple repository with visibility into projects I am working on
+
+[douguyeda.github.io](Click Me)
