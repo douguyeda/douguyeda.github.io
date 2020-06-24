@@ -2,4 +2,4 @@
 
 Simple repository with visibility into projects I am working on
 
-[Click Me](douguyeda.github.io)
+Link to site: douguyeda.github.io
