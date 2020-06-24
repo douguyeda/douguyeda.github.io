@@ -1,6 +1,6 @@
-## Websites I am currently working on
+# Websites I am currently working on
 
-### [STARKX](https://www.starkxclothing.com/)
+## [STARKX](https://www.starkxclothing.com/)
 E-commerce site selling clothing.
 
 - Build with next.js
